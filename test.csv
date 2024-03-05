@@ -1,0 +1,11 @@
+"id";"Home owner"; "Marital Status"; "Annual Income"; "Default Borrower"
+1; Yes; Single; 125k; No
+2; No; Married; 100k; No
+3; No; Single; 70k; No
+4; Yes; Married; 120k; No
+5; No; Divorced; 95k; Yes
+6; No; Married; 60k; No
+7; Yes; Divorced; 220k; No
+8; No; Married; 85k; Yes
+9; No; Married; 75k; No
+10; No; Single; 90k; Yes
